@@ -30,7 +30,7 @@ Version|Date|Comments
 ## Getting Started
 To get started with Jony's Out of Office Texter, follow these steps:
 
-1.	Download the app ZIP file from [Jony's Out of Office Texter](https://github.com/jony-oof-texter/releases).
+1.	Download the app ZIP file from [Jony's Out of Office Texter]([https://github.com/jony-oof-texter/releases](https://github.com/Mangescom/powerplatform-samples/tree/mangescom---Jonys-out-of-Office-Texter/samples/Jonys%20Out-of-Office%20Texter/solution).
 2.	Import the app into your environment.
 3.	If prompted, add a connection for Outlook to enable seamless integration.
 4.	Connect your Outlook account to start generating creative out of office messages.
